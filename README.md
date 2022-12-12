@@ -4,4 +4,8 @@
 ### [Chapter 2](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa-functions.ipynb)
 - contains SMA: Simple Moving Average, CMA(Expanding): Cumulative Moving Average, EWMA: Exponential Weighted Moving Average, ADFuller for hypothesis testing, Differencing Technique, ARIMA: AutoRegression Integrated Moving Average & SARIMAX: Seasonal Auto-Regressive Integrated Moving Average with eXogenous factors.
 ### [Chapter 3](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa-fbprophet.ipynb)
-- contains time series analysis using fb-prophet: model fitting, prediction, cross-validation & plotting.
+- contains time series analysis using **fb-prophet**: model fitting, prediction, cross-validation & plotting.
+### [Chapter 4](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa-lstm.ipynb)
+- contains time series analysis using **tensorflow-lstm**: model fitting, prediction, mse-checking & plotting.
+### [Chapter 5](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa-darts.ipynb)
+- contains time series analysis using **darts**:  model fitting using NBEATS, prediction, mape checking & plotting
