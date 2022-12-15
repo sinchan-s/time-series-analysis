@@ -8,4 +8,4 @@
 ### [Chapter 4](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa-lstm.ipynb)
 - contains time series analysis using **tensorflow-lstm**: model fitting, prediction, mse-checking & plotting.
 ### [Chapter 5](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa-darts.ipynb)
-- contains time series analysis using **darts**:  model fitting using NBEATS, prediction, mape checking & plotting
+- contains time series analysis using **darts**:  model fitting using NBEATS, prediction, mape checking & plotting. Here's, the [code](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa_darts.ipynb) with [Google Colab](https://colab.research.google.com/github/sinchan-s/time-series-analysis/blob/main/tsa_darts.ipynb) link.
