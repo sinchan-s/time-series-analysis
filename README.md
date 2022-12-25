@@ -24,4 +24,20 @@
 
 ### [Chapter 5: Darts-NBEATS](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa-darts.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sinchan-s/time-series-analysis/blob/main/tsa_darts.ipynb)
-- contains time series analysis using **darts**:  model fitting using NBEATS, prediction, mape checking & plotting. Here's, the [code](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa_darts.ipynb)
+- contains time series analysis using **darts**:  model fitting using NBEATS, prediction, mape checking & plotting. Here's, the [colab code](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa_darts.ipynb)
+
+### [Chapter 6: Tsfresh (Time Series Feature Extraction Based on Scalable Hypothesis Tests)](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa-tsfresh.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sinchan-s/time-series-analysis/blob/main/tsa-tsfresh.ipynb)
+- contains time series analysis using **tsfresh**:  future data forecasting.
+
+### [Chapter 7: Kats (Kits to Analyze Time Series)](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa-kats.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sinchan-s/time-series-analysis/blob/main/tsa-kats.ipynb)
+- contains time series analysis using **kats**:   model fitting using Prophet instance, prediction & plotting.
+
+### [Chapter 8: Greykite](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa-greykite.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sinchan-s/time-series-analysis/blob/main/tsa-greykite.ipynb)
+- contains time series analysis using **greykite**:   forecasting & plotting.
+
+### [Chapter 9: AutoTS (Automatic Time Series)](https://github.com/sinchan-s/time-series-analysis/blob/main/tsa-autots.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sinchan-s/time-series-analysis/blob/main/tsa-autots.ipynb)
+- contains time series analysis using **autots**:   model fitting, prediction & plotting.
